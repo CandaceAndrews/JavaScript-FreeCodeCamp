@@ -1,5 +1,6 @@
 // Setup
 const myArray = [["John", 23], ["dog", 3]];
+myArray.shift();
 
 // Only change code below this line
-let removedFromMyArray = myArray.shift();
+myArray.unshift(["Paul", 35]);
