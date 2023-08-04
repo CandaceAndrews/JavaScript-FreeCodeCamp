@@ -80,40 +80,26 @@ Lessons:
 - Logical Order in If Else Statements
 - Chaining If Else Statements
 - Golf Code
-Selecting from Many Options with Switch Statements
-Adding a Default Option in Switch Statements
-Multiple Identical Options in Switch Statements
-Replacing If Else Chains with Switch
-Returning Boolean Values from Functions
-Return Early Pattern for Functions
-Counting Cards
-
-Build JavaScript Objects
-Not Passed
-Accessing Object Properties with Dot Notation
-Not Passed
-Accessing Object Properties with Bracket Notation
-Not Passed
-Accessing Object Properties with Variables
-Not Passed
-Updating Object Properties
-Not Passed
-Add New Properties to a JavaScript Object
-Not Passed
-Delete Properties from a JavaScript Object
-Not Passed
-Using Objects for Lookups
-
-Testing Objects for Properties
-
-Manipulating Complex Objects
-
-Accessing Nested Objects
-
-Accessing Nested Arrays
-
-Record Collection
-
+- Selecting from Many Options with Switch Statements
+- Adding a Default Option in Switch Statements
+- Multiple Identical Options in Switch Statements
+- Replacing If Else Chains with Switch
+- Returning Boolean Values from Functions
+- Return Early Pattern for Functions
+- Counting Cards
+- Build JavaScript Objects
+- Accessing Object Properties with Dot Notation
+- Accessing Object Properties with Bracket Notation
+- Accessing Object Properties with Variables
+- Updating Object Properties
+- Add New Properties to a JavaScript Object
+- Delete Properties from a JavaScript Object
+- Using Objects for Lookups
+- Testing Objects for Properties
+- Manipulating Complex Objects
+- Accessing Nested Objects
+- Accessing Nested Arrays
+- Record Collection
 - Iterate with JavaScript While Loops
 - Iterate with JavaScript For Loops
 - Iterate Odd Numbers With a For Loop
