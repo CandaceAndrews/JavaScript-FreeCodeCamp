@@ -1,4 +1,4 @@
-# Basic JavaScript
+# 🐠 Basic JavaScript
 
 ## From https://www.freecodecamp.org/
 ___
